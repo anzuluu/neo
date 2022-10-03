@@ -47,7 +47,7 @@ console.log(`Pings:\n   — API: ${status} | ${ping}ms`);
 
     let statusarray = [
         {
-            name: `En Matenimiento!`,
+            name: `En Mantenimiento!`,
             type: ActivityType.Playing,
             status: `dnd`
         },
