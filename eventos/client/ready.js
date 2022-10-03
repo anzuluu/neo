@@ -54,7 +54,7 @@ console.log(`Pings:\n   — API: ${status} | ${ping}ms`);
         {
             name: `By: Mako <3#5907`,
             type: ActivityType.Custom,
-            status: `dnd`
+            status: `online`
         },
   
     ]
